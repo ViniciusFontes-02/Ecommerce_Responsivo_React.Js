@@ -1,5 +1,5 @@
 # Projeto Ecommerce Responsivo com React.Js
-[Clique aqui para ver!]([https://pages.github.com/](https://ecommerce-responsivo-react-js.vercel.app/))
+### [Clique aqui para entrar no site!](https://ecommerce-responsivo-react-js.vercel.app/)
 
 Neste projeto, concentrei-me em criar uma experiência de compra fluida e intuitiva para os usuários. Utilizando o react-router, os clientes podem navegar facilmente entre as páginas de Home e Produtos, garantindo uma jornada de compra sem complicações.
 
